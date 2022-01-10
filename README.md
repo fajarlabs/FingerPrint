@@ -4,6 +4,19 @@
 #### SDK v3 [Download](https://drive.google.com/open?id=1Hg3HAqwLuqmi9F4eUAgb5WaeLyJvPQq5)  
 #### SDKPatch [Download](https://drive.google.com/file/d/1yB0oW3NtBfCBKFHSe0Blc7B7grMD854W/view?usp=sharing)
 
+## New SDK API
+### SDK2018 uru linux, windows, android
+
+```
+https://www.mediafire.com/file/74jfvdsd46efas9/SDK2018URULinuxWindowsAndroid.rar/file
+```
+
+### U4500 sdk baru
+
+```
+https://www.mediafire.com/file/ooxkfucwne1s0j2/u4500-sdk-baru.rar/file
+```
+
 ## How to instalasi dll using gacutil.exe
 https://stackoverflow.com/questions/40434572/where-is-gacutil-exe-in-windows-10<br />
 
