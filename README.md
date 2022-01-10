@@ -13,3 +13,5 @@ https://stackoverflow.com/questions/40434572/where-is-gacutil-exe-in-windows-10<
 > gacutil.exe /i MyBase64.dll
 > gacutil.exe /i MyFPLib.dll
 ```
+
+## Use PHP 7
